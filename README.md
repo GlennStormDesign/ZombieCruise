@@ -1,6 +1,5 @@
 # Zombie Cruise
 
-[image goes here]
 ![ZombieCruise](http://hotironproductions.com/zombiecruise/image/zccpp.png?raw=true "ZombieCruise")
 
 C++ Text-Based Comedy Horror Adventure Game (coding challenge)
