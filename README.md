@@ -5,7 +5,7 @@
 C++ Text-Based Comedy Horror Adventure Game (coding challenge)
 
 ## Try it
-[Download .zip Windows Game]
+[Download .zip Windows Game](http://hotironproductions.com/zombiecruise/doc/Zombie%20Cruise%20Game.zip)
 
 ## Huh?
 I've been making games with code for over three decades, and since 2009, working with C# (in unity). So, while learning C++ (and before that C) has been challenging in the past, since Sept 2019, I've been able to get past major hurdles and get down to it.
