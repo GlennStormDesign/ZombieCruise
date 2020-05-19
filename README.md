@@ -1,4 +1,4 @@
-# ZombieCruise
+# Zombie Cruise
 
 [image goes here]
 
